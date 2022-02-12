@@ -34,7 +34,7 @@
     "@angular/router": "8.0.0",
     "@fortawesome/fontawesome-free": "^5.12.1",
     "@types/chart.js": "^2.9.14",
-    "ajv": "6.10.0",
+    "ajv": "6.12.3",
     "angular-bootstrap-md": "^8.10.0",
     "animate.css": "^3.7.2",
     "@auth0/angular-jwt": "^4.0.0",
